@@ -1,5 +1,4 @@
 	Cadastro de Disciplina
 
-Código: 05
-Disciplina: Automação
-Curso: Ciência da Computação
+C�digo: 05
+Disciplina: Automa��o

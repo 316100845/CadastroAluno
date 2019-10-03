@@ -1,7 +1,5 @@
 	Cadastro de Professor
 
-Matrícula: 987123
+Matr�cula: 987123
 Nome: Renato Penha
 E-mail: renatopenha@uni9.com
-Telefone: 987654321
-Disciplinas que leciona: Automação
