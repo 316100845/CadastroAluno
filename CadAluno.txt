@@ -1,4 +1,6 @@
 	Cadastro de Aluno
 
 RA: 316100845	
-Nome: Lucas Romera Bueno	
+Nome: Lucas Romera Bueno
+Telefone: 987654321
+E-mail: lucasromerabueno@gmail.com
