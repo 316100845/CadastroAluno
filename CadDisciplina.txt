@@ -1,0 +1,4 @@
+	Cadastro de Disciplina
+
+Código: 05
+Disciplina: Automação
