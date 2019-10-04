@@ -1,5 +1,6 @@
 	Cadastro de Professor
 
-Matr�cula: 987123
+Matrícula: 987123
 Nome: Renato Penha
 E-mail: renatopenha@uni9.com
+Formação:
